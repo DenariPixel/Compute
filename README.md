@@ -1,2 +1,2 @@
-# ComputeWindows
-Tools for Windows to Save Time
+# Compute
+Tools for Windows OS to Save Time
